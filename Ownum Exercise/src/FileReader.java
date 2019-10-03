@@ -19,7 +19,7 @@ public class FileReader
 	//Gets the file path
 	public static void main(String[] args)
 	{
-		String filePath = "C:\\Coding Exercises\\FileToRead\\passage.txt";	
+		String filePath = "\\Ownum Exercise\\FileToRead\\passage.txt";	
 		
 		StringBuilder contentBuilder = new StringBuilder();
 		
